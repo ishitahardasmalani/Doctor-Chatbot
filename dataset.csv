@@ -1,0 +1,13 @@
+﻿Symptoms,Disease
+cough sore_throat runny_nose headache,Common cold
+sore_throat runny_nose cough fever rashes,Measles
+mild_fever itchy_skin rashes blisters,Chicken pox
+severe_flu fever severe_headache muscle_pain joint_pain,Dengue
+eye_irritation eye_redness eye_pain photophobia,Conjunctivitis
+fever chills tiredness runny_nose dry_cough sore_throat,Flu
+chills high_fever cough breath_issue chest_pain,Pnuemonia
+fever chills weight_loss breathing_issue night_sweats,Tuberculosis
+vomiting stomachache weight_loss dehydration drowsy,Diarrhoea
+vomiting nausea stomachache weakness fever ,Food poisoning
+fever headache sweats muscleache vomiting diarrhoea,Malaria
+loss_of_memory loss_of_sense depression anxiety,Parkinson's disease
